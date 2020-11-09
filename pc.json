@@ -1,17 +1,16 @@
 {
-    shareTitle: '最新,最全,全家桶视频app',
-    shareMessage: '最新,最全,全家桶视频app',
-    shareUrl: '',
-    isShowFeedAd:true,
-    isShowInterstitialAd:true,
-    isShowFullScreenVideoAd:true,
-    isShowBannerAd:true,
-    isShowRewardVideoAd:true,
-    isUsePointsMode:true,
-    points:5,
-
-    rulesLastUpdateTime:0,
-    rulesUrl:'',
-    firstOpenAppTime:0,
-    version:"1.0.0"
+	"shareTitle": "最新,最全,全家桶视频app",
+	"shareMessage": "最新,最全,全家桶视频app",
+	"shareUrl": "",
+	"isShowFeedAd": true,
+	"isShowInterstitialAd": true,
+	"isShowFullScreenVideoAd": true,
+	"isShowBannerAd": true,
+	"isShowRewardVideoAd": true,
+	"isUsePointsMode": true,
+	"points": 5,
+	"rulesLastUpdateTime": 0,
+	"rulesUrl": "",
+	"firstOpenAppTime": 0,
+	"version": "1.0.0"
 }
